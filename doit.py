@@ -4,6 +4,3 @@ import pyximport
 pyximport.install()
 
 import omp
-
-
-omp.parallel_block()
